@@ -1,1 +1,1 @@
-Tasks and Projects Completed During Studies at HSLU
+MSc in Data Science at HSLU
