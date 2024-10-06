@@ -1,1 +1,1 @@
-MSc in Data Science at HSLU
+Projects conducted during studying of MSc in Data Science at HSLU
